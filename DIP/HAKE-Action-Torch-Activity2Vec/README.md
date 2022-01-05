@@ -19,7 +19,7 @@ For each PaSta, we multiply its probability to its Bert vector (base 768) of its
 More details can be found in [PaStaNet](https://arxiv.org/pdf/2004.00945.pdf) and [HAKE-Action](https://github.com/DirtyHarryLYL/HAKE-Action).
 
 <p align='center'>
-    <img src="demo/a2v-demo.gif", height="400">
+    <img src="https://github.com/DirtyHarryLYL/HAKE-Action-Torch-Activity2Vec/demo/a2v-demo.gif", height="400">
 </p>
 
 ## Full demo: [[YouTube]](https://t.co/hXiAYPXEuL?amp=1), [[bilibili]](https://www.bilibili.com/video/BV1s54y1Y76s)
